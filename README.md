@@ -49,7 +49,7 @@ Emotional-Intelligence-Project/
 ## 🚀 How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Emotional-Intelligence-Project.git
+   git clone https://github.com/tahir-04/Emotional-Intelligence-Project.git
 Navigate to the project directory:
 
 cd Emotional-Intelligence-Project
